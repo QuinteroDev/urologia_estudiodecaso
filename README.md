@@ -57,7 +57,7 @@ Analytics:   Pandas, NumPy, Chart.js
 
 Chatbot médico entrenado con las guías europeas de urología más recientes:
 
-Mostrar imagen
+![EMI Chatbot](./images/emi-chatbot.png)
 
 Capacidades:
 
@@ -73,7 +73,7 @@ Cita fuentes y niveles de evidencia
 
 Sistema de búsqueda en lenguaje natural sobre toda la base de datos:
 
-Mostrar imagen
+![Búsqueda Inteligente](./images/emi-search.png)
 
 Ejemplo real: "Dame todos los pacientes operados con gleason 7 y sin recidiva"
 
@@ -91,7 +91,7 @@ Permite exportación inmediata a Excel/CSV
 
 Generación automática de visualizaciones estadísticas complejas:
 
-Mostrar imagen
+![Dashboard Constructor](./images/emi-dashboard.png)
 
 Ejemplo: "Tasa de márgenes positivos en el año 2024 en hospitales con más de 10 operaciones"
 
